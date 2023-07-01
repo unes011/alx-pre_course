@@ -1,2 +1,2 @@
-Another readme for 0x01-git
-Readme upadate from guthub.com
+another readme for 0x01-git
+README upadate from github.com
